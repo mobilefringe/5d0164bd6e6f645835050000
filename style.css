@@ -3724,7 +3724,7 @@ html .feature_item_container {
 @media (min-width: 769px) {
 	.mobile_search_container,
 	.mobile_search_icon {
-// 		display: none!important;
+		display: none!important;
 	}
 }
 
