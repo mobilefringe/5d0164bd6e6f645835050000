@@ -3723,10 +3723,12 @@ html .feature_item_container {
 
 @media (min-width: 769px) {
 	.mobile_search_container,
-	.mobile_search_icon {
+	
+}
+
+.mobile_search_icon {
 		color: #fff;
 	}
-}
 
 
 /* Small devices (tablets, 768px and down) */
