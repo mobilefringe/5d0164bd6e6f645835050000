@@ -3769,7 +3769,7 @@ html .feature_item_container {
 	.top_bar_wrapper {
 		.col-md-3 {
 			&.hidden_phone {
-				display: none;
+				// display: none;
 			}
 			width: 100%;
 			display: block;
